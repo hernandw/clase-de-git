@@ -1,10 +1,12 @@
 h1 {
-    color: red;
-    font-size: 24px;
+    color: rgb(0, 13, 255);
+    font-size: 44px;
 }
 
 
 
 .footer {
     text-align: center;
+    color: brown;
+    font-weight: 700;
 }
